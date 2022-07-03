@@ -1,15 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 3.1.2p20
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
+* Rails version: 7.0.3
 
 * Database creation
 
@@ -21,5 +14,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
 # learning-rails
